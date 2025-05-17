@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/investments
+/investments/bin/Debug/net9.0
+/investments/obj
+/investments.Client/bin/Debug/net9.0
+/investments.Client/obj
